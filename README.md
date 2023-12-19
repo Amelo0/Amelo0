@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- https://www.linkedin.com/in/arthur-melo-a18531288/
+- [LinkedIn](https://www.linkedin.com/in/arthur-melo-a18531288/)
 
 <p align="left">
 </p>
