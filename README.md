@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Greirat - Web Crawler](https://github.com/Amelo0/Greirat02)
 
-- 🌱 I’m currently learning **JavaScript and Web Development**
+- 🌱 I’m currently learning **Pentesting web and tool dev**
 
 - 📫 How to reach me **desousameloarthur@gmail.com**
 
