@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Melo</h1>
-<h3 align="center">Graduating at Computer Science and Software Developer - Universidade Catolica de Pernambuco 3/8</h3>
+<h3 align="center">Graduating at Computer Science and Software Developer - Universidade Catolica de Pernambuco 5/8</h3>
 
 - 🔭 I’m currently working on [Greirat - Web Crawler](https://github.com/Amelo0/Greirat02)
 
