@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Melo</h1>
 <h3 align="center">Graduating at Computer Science and Software Developer - Universidade Catolica de Pernambuco 5/8</h3>
 
-- 🔭 I’m currently working on [Greirat - Web Crawler](https://github.com/Amelo0/Greirat02)
-
-- 🌱 I’m currently learning **Pentesting web and tool dev**
-
-- 📫 How to reach me **desousameloarthur@gmail.com**
+- 📫 Reach me at **desousameloarthur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
